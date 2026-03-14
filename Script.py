@@ -229,7 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """"""<b><a href="https://t.me/Arpitbotmovies">📂Fɪʟᴇɴᴀᴍᴇ : {file_name}</a>"""
+    CAPTION = """"""<b><a href="https://t.me/Arpitbotmovies">Fɪʟᴇɴᴀᴍᴇ : {file_name}</a>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
