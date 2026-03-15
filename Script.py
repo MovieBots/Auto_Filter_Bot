@@ -229,7 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Arpitbotmovies">📂Fɪʟᴇɴᴀᴍᴇ{file_name}</a></b>\n\n<b><a"""
+    CAPTION = """<b><a href="https://t.me/Arpitbotmovies">📂Fɪʟᴇɴᴀᴍᴇ{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+m2-CnUFU_5c1MDQ1">[ Fɪʟᴍ Cɪᴛʏ Oғғɪᴄɪᴀʟ ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
